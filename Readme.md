@@ -14,7 +14,7 @@ This is a simple dice rolling game built using React. The game allows you to rol
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/dice-rolling-game.git
+   git clone https://github.com/gauyash/tenzie-game.git
 
 
 2. Navigate to the project directory:
@@ -31,7 +31,7 @@ This is a simple dice rolling game built using React. The game allows you to rol
 4. Start the development server:
 
     ```bash
-    npm start
+    npm run dev
 
 The game should now be running on http://localhost:3000.
 
@@ -44,10 +44,12 @@ The game should now be running on http://localhost:3000.
 
 ## Technologies Used
 
--React
--nanoid (for generating unique IDs)
--Bootstrap
--CSS
+- React
+- nanoid (for generating unique IDs)
+- Bootstrap
+- CSS
+- HTML
+- JavaScript
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
