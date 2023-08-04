@@ -1,4 +1,4 @@
-# Dice Rolling Game
+# Tenzie Game
 
 This is a simple dice rolling game built using React. The game allows you to roll a set of dice and hold certain dice to generate specific combinations.
 
